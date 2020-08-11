@@ -1,5 +1,5 @@
-*.ipynb_checkpoints
-*AL
-*EN
-*CN
-*SG
+.ipynb_checkpoints/
+AL/
+EN/
+CN/
+SG/
